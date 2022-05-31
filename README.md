@@ -5,4 +5,4 @@
 [![Stars](https://img.shields.io/github/stars/HasibAlMuzdadid/Machine-Learning-and-Deep-Learning-Projects.svg?style=social)](https://github.com/HasibAlMuzdadid/Machine-Learning-and-Deep-Learning-Projects/stargazers)
 
 
-**Author :**
+**Author :** </br>
