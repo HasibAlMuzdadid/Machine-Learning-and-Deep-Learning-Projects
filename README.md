@@ -13,4 +13,4 @@ LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
 Email: muzdadid@gmail.com
 
 ## Project Description :
-This repository contains various **Machine Learning and Deep Learning** projects which I have implemented so far for self-learning and the completion of various online courses offered on different platforms like [Coursera](), freeCodeCamp & others and also this reflects what I have learnt by taking these courses.
+This repository contains various **Machine Learning and Deep Learning** projects which I have implemented so far for self-learning and the completion of various online courses offered on different platforms like [Coursera](https://www.coursera.org/), freeCodeCamp & others and also this reflects what I have learnt by taking these courses.
