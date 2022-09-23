@@ -16,4 +16,4 @@ Email: muzdadid@gmail.com
 This repository contains various **Machine Learning and Deep Learning** projects which I have implemented so far for self-learning and the completion of various online courses offered on different platforms like [Coursera](https://www.coursera.org/), [freeCodeCamp](https://www.freecodecamp.org/) & others and also this reflects what I have learnt by taking these courses.
 
 **Language used :** Python </br>
-**Development Tools :** [Jupyter Notebook](
+**Development Tools :** [Jupyter Notebook]()
