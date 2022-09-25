@@ -17,4 +17,4 @@ This repository contains various **Machine Learning and Deep Learning** projects
 
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
-**Platform :** Skills Network Labs
+**Platform :** [Skills Network Labs]
